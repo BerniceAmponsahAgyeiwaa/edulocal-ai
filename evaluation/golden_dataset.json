@@ -1,0 +1,14 @@
+[
+    {
+      "question": "Explain photosynthesis",
+      "expected_keywords": ["plants", "sunlight", "carbon dioxide"]
+    },
+    {
+      "question": "What is binary search?",
+      "expected_keywords": ["sorted", "middle", "divide"]
+    },
+    {
+      "question": "Explain demand and supply",
+      "expected_keywords": ["price", "market", "demand", "supply"]
+    }
+  ]
