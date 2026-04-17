@@ -5,3 +5,4 @@ __pycache__/
 *.pyd
 .env.local
 .vscode/
+.DS_Store
